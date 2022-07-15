@@ -1,0 +1,16 @@
+,icao,iata,airport_name,municipality_name,country_code,airport_latitude,airport_longitude,city_id
+0,EDDT,TXL,"Berlin, Berlin-Tegel",Berlin,DE,52.5597,13.287699,Q64
+1,EDDB,BER,"Berlin, Berlin Brandenburg",Berlin,DE,52.35139,13.493889,Q64
+2,EDDH,HAM,Hamburg,Hamburg,DE,53.6304,9.988229,Q1055
+3,EDDM,MUC,Munich,Munich,DE,48.3538,11.7861,Q1726
+4,EDDK,CGN,"Cologne, Cologne Bonn",Cologne,DE,50.8659,7.142739,Q365
+5,EDDL,DUS,"Duesseldorf, Düsseldorf",Düsseldorf,DE,51.2895,6.766779,Q1718
+6,EDDF,FRA,Frankfurt-am-Main,Frankfurt am Main,DE,50.0264,8.543129,Q1794
+7,EDDS,STR,Stuttgart,Stuttgart,DE,48.6899,9.22196,Q1022
+8,EDLW,DTM,Dortmund,Dortmund,DE,51.5183,7.612239,Q1295
+9,EDDP,LEJ,"Leipzig, Leipzig Halle",Leipzig,DE,51.4324,12.2416,Q2079
+10,LOWW,VIE,"Vienna, Schwechat",Vienna,AT,48.1103,16.5697,Q1741
+11,LOWG,GRZ,Graz,Graz,AT,46.9911,15.439599,Q13298
+12,LOWL,LNZ,Linz,Linz,AT,48.2332,14.1875,Q41329
+13,LOWS,SZG,Salzburg,Salzburg,AT,47.7933,13.0043,Q34713
+14,LOWI,INN,Innsbruck,Innsbruck,AT,47.2602,11.343999,Q1735

@@ -1,0 +1,16 @@
+,city_id,city,country,country_code,region,elevation,city_latitude,city_longitude,population
+0,Q64,Berlin,Germany,DE,Berlin,,52.516666666,13.383333333,3664088
+1,Q1055,Hamburg,Germany,DE,Hamburg,,53.55,10.0,1852478
+2,Q1726,Munich,Germany,DE,Bavaria,519,48.13452,11.571,1488202
+3,Q365,Cologne,Germany,DE,North Rhine-Westphalia,52,50.942222222,6.957777777,1083498
+4,Q1794,Frankfurt am Main,Germany,DE,Hesse,112,50.113611111,8.679722222,764104
+5,Q1022,Stuttgart,Germany,DE,Baden-Württemberg,245,48.776111111,9.1775,630305
+6,Q1718,Düsseldorf,Germany,DE,North Rhine-Westphalia,38,51.231144444,6.772380555,645923
+7,Q1295,Dortmund,Germany,DE,North Rhine-Westphalia,86,51.513888888,7.465277777,587696
+8,Q2066,Essen,Germany,DE,North Rhine-Westphalia,116,51.450833333,7.013055555,582415
+9,Q2079,Leipzig,Germany,DE,Saxony,113,51.34,12.375,597215
+10,Q1741,Vienna,Austria,AT,Vienna,171,48.208333333,16.3725,1911191
+11,Q13298,Graz,Austria,AT,Styria,,47.070833333,15.438611111,289440
+12,Q41329,Linz,Austria,AT,Upper Austria,266,48.3,14.283333333,204846
+13,Q34713,Salzburg,Austria,AT,Salzburg,424,47.80067,13.04532,155021
+14,Q1735,Innsbruck,Austria,AT,Tyrol,574,47.268333333,11.393333333,131961
