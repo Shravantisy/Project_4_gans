@@ -16,19 +16,19 @@ for this things we need Data(cities, weather, airports, flights).
 ### Summary of work done so far:
 
 #### Data Collection
-1.Scrape data from the wikipedia.(webscraping library: beautifulsoup)
+1. Scrape data from the wikipedia.(webscraping library: beautifulsoup)
 
-2.Collect data with APIs.
+2. Collect data with APIs.
 
 #### Data Storage
-1.Create a database model.
+1. Create a database model.
 
-2.Store data on a local MySQL instance.
+2. Store data on a local MySQL instance.
 
 #### Cloud pipeline
-1.Set up a cloud database(Amazon Web Services (AWS), to set up MySQL database)
+1. Set up a cloud database(Amazon Web Services (AWS), to set up MySQL database)
 
-2.Move scripts to Lambda.
+2. Move scripts to Lambda.
 
 #### Automate the pipeline
 -used CloudWatch Events / EventBridge 
