@@ -10,7 +10,7 @@ In hilly cities, users tend to use scooters to go uphill and then walk downhill.
 In the morning, there is a general movement from residential neighbourhoods towards the city centre.
 Whenever it starts raining, e-scooter usage decreases drastically.
 Whenever airplanes with back-pack young tourists lands, a lot of scooters are needed close to the airport.
-for this things we need Data(cities, weather, airports, flights).
+for this things we need Data (cities, weather, airports, flights).
 
 
 ### Summary of work done so far:
